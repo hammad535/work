@@ -1,1 +1,5 @@
-  
+   polynomial 1 : 1x^2-5x^1+6x^0
+ polynomial 2 : 1x^2-3x^1
+ sum: 2x^2-8x^1+6x^0
+difference: -2x^1+6x^0
+ product : 1x^4-8x^3+21x^2-18x^1
